@@ -7,6 +7,7 @@ Paper link:
 https://www.sciencedirect.com/science/article/pii/S2589004224028554#fig2
 
 ### Key takeway:
+# looking for GSEA analysis 
 
 - Generated differential gene table
 ```
